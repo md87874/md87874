@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>[30 Day SOC analyst challenge](https://github.com/md87874/30-day-SOC-analyst)</b>
   
 <h2>📺 Certifications </h2>
 
