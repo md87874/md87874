@@ -12,9 +12,5 @@
 - [CompTIA IT Fundamentals](https://www.credly.com/badges/b8ee0234-ed4a-4ba2-9bca-267edee450ad/public_url)
 - [MTA: Database Fundamentals](https://www.credly.com/badges/888a8ca0-c431-4ce9-83ef-bd5f46869f29/public_url)
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/md87874
 
